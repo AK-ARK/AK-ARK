@@ -1,6 +1,6 @@
 ### AK-ARK
 
-- 📚 High school student
+- 📚 Student
 - 🌱 Currently learning everything
 
 ### Languages and Tools
